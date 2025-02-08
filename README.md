@@ -14,7 +14,7 @@ Este é um projeto simples desenvolvido para praticar os conceitos fundamentais 
 ✅ Implementação simples e didática  
 
 ## 📷 Captura de tela
- ![Print do projeto](impar_par.png)
- ![Print do projeto](impar.png)
+ ![Print do projeto](impar ou par/impar par.png)
+ ![Print do projeto](impar_ou_par/impar.png)
  ![Print do projeto](par.png)
 
