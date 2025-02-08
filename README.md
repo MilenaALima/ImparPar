@@ -14,7 +14,11 @@ Este é um projeto simples desenvolvido para praticar os conceitos fundamentais 
 ✅ Implementação simples e didática  
 
 ## 📷 Captura de tela
- ![Print do projeto](impar_par/Screeshots/impar par.png)
+ ![Print do projeto](impar_par/Screeshots/imparpar.png)
+ Página inicial.
+ 
  ![Print do projeto](impar_par/Screeshots/impar.png)
+ Identificando um número impar.
+ 
  ![Print do projeto](impar_par/Screeshots/par.png)
-
+Identificando um número par.
